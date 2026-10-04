@@ -1,0 +1,6 @@
+{
+  "name": "MoodWave",
+  "description": "An atmospheric, local-first emotional frequency journal with dynamic wave visualization, procedural soundscapes, and personal grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
